@@ -1,0 +1,46 @@
+{
+  "city": "Tokyo",
+  "country": "Japan",
+  "current": {
+    "temperature": 15,
+    "condition": "Sunny",
+    "humidity": 55,
+    "windSpeed": 12,
+    "sunrise": "06:30",
+    "sunset": "16:50",
+    "icon": "sunny"
+  },
+  "hourly": [
+    { "time": "00:00", "temperature": 12, "icon": "clear_night" },
+    { "time": "01:00", "temperature": 11, "icon": "clear_night" },
+    { "time": "02:00", "temperature": 11, "icon": "clear_night" },
+    { "time": "03:00", "temperature": 10, "icon": "clear_night" },
+    { "time": "04:00", "temperature": 10, "icon": "clear_night" },
+    { "time": "05:00", "temperature": 9, "icon": "clear_night" },
+    { "time": "06:00", "temperature": 9, "icon": "clear_night" },
+    { "time": "07:00", "temperature": 10, "icon": "sunny" },
+    { "time": "08:00", "temperature": 11, "icon": "sunny" },
+    { "time": "09:00", "temperature": 12, "icon": "sunny" },
+    { "time": "10:00", "temperature": 13, "icon": "sunny" },
+    { "time": "11:00", "temperature": 14, "icon": "sunny" },
+    { "time": "12:00", "temperature": 15, "icon": "sunny" },
+    { "time": "13:00", "temperature": 16, "icon": "sunny" },
+    { "time": "14:00", "temperature": 16, "icon": "sunny" },
+    { "time": "15:00", "temperature": 15, "icon": "sunny" },
+    { "time": "16:00", "temperature": 14, "icon": "partly_cloudy" },
+    { "time": "17:00", "temperature": 13, "icon": "partly_cloudy" },
+    { "time": "18:00", "temperature": 12, "icon": "clear_night" },
+    { "time": "19:00", "temperature": 11, "icon": "clear_night" },
+    { "time": "20:00", "temperature": 11, "icon": "clear_night" },
+    { "time": "21:00", "temperature": 10, "icon": "clear_night" },
+    { "time": "22:00", "temperature": 10, "icon": "clear_night" },
+    { "time": "23:00", "temperature": 9, "icon": "clear_night" }
+  ],
+  "daily": [
+    { "date": "Mon, Dec 21", "high": 16, "low": 9, "icon": "sunny" },
+    { "date": "Tue, Dec 22", "high": 17, "low": 10, "icon": "sunny" },
+    { "date": "Wed, Dec 23", "high": 16, "low": 9, "icon": "partly_cloudy" },
+    { "date": "Thu, Dec 24", "high": 15, "low": 8, "icon": "cloudy" },
+    { "date": "Fri, Dec 25", "high": 14, "low": 7, "icon": "partly_cloudy" }
+  ]
+}

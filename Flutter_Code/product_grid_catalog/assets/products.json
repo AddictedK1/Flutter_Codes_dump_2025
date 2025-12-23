@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "rating": 4.5,
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with noise cancellation and superior sound quality. Perfect for music lovers and professionals alike.",
+    "specs": ["Bluetooth 5.0", "30-hour battery life", "Active Noise Cancellation", "Foldable design"]
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "rating": 4.8,
+    "category": "Electronics",
+    "description": "Feature-rich smartwatch with fitness tracking, heart rate monitoring, and notifications. Stay connected and healthy.",
+    "specs": ["Heart Rate Monitor", "GPS Tracking", "Water Resistant", "7-day battery"]
+  },
+  {
+    "id": "3",
+    "name": "Running Shoes",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "rating": 4.3,
+    "category": "Sports",
+    "description": "Comfortable and durable running shoes designed for maximum performance. Lightweight with excellent cushioning.",
+    "specs": ["Breathable mesh", "Cushioned sole", "Lightweight design", "Durable rubber outsole"]
+  },
+  {
+    "id": "4",
+    "name": "Leather Backpack",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "rating": 4.6,
+    "category": "Fashion",
+    "description": "Premium leather backpack with multiple compartments. Perfect for work, travel, or everyday use.",
+    "specs": ["Genuine leather", "Laptop compartment", "Water resistant", "Adjustable straps"]
+  },
+  {
+    "id": "5",
+    "name": "Coffee Maker",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400",
+    "rating": 4.7,
+    "category": "Home",
+    "description": "Programmable coffee maker with thermal carafe. Brew perfect coffee every morning with customizable settings.",
+    "specs": ["12-cup capacity", "Programmable timer", "Thermal carafe", "Auto shut-off"]
+  },
+  {
+    "id": "6",
+    "name": "Yoga Mat",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400",
+    "rating": 4.4,
+    "category": "Sports",
+    "description": "Non-slip yoga mat with extra cushioning for comfort. Eco-friendly and durable for all your workout needs.",
+    "specs": ["6mm thickness", "Non-slip surface", "Eco-friendly material", "Includes carrying strap"]
+  },
+  {
+    "id": "7",
+    "name": "Desk Lamp",
+    "price": 45.99,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400",
+    "rating": 4.2,
+    "category": "Home",
+    "description": "Modern LED desk lamp with adjustable brightness and color temperature. Energy-efficient lighting for your workspace.",
+    "specs": ["LED technology", "Adjustable brightness", "Color temperature control", "USB charging port"]
+  },
+  {
+    "id": "8",
+    "name": "Sunglasses",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+    "rating": 4.5,
+    "category": "Fashion",
+    "description": "Stylish polarized sunglasses with UV protection. Perfect blend of fashion and functionality.",
+    "specs": ["UV400 protection", "Polarized lenses", "Lightweight frame", "Includes case"]
+  },
+  {
+    "id": "9",
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+    "rating": 4.6,
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with powerful sound and long battery life. Waterproof design for outdoor adventures.",
+    "specs": ["360° sound", "20-hour battery", "Waterproof IPX7", "Bluetooth 5.0"]
+  },
+  {
+    "id": "10",
+    "name": "Dumbbell Set",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?w=400",
+    "rating": 4.8,
+    "category": "Sports",
+    "description": "Adjustable dumbbell set for home workouts. Compact design with multiple weight options.",
+    "specs": ["Adjustable weights", "Non-slip grip", "Compact storage", "Durable coating"]
+  },
+  {
+    "id": "11",
+    "name": "Canvas Tote Bag",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=400",
+    "rating": 4.1,
+    "category": "Fashion",
+    "description": "Eco-friendly canvas tote bag perfect for shopping or daily use. Spacious and durable.",
+    "specs": ["100% cotton canvas", "Large capacity", "Reinforced handles", "Machine washable"]
+  },
+  {
+    "id": "12",
+    "name": "Air Purifier",
+    "price": 179.99,
+    "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=400",
+    "rating": 4.7,
+    "category": "Home",
+    "description": "HEPA air purifier for cleaner, healthier air. Removes 99.97% of airborne particles.",
+    "specs": ["True HEPA filter", "3-stage filtration", "Quiet operation", "Covers 500 sq ft"]
+  }
+]

@@ -1,0 +1,274 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Classic Pancakes",
+      "category": "breakfast",
+      "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+      "prepTimeMinutes": 20,
+      "servings": 4,
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon white sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tablespoons butter, melted"
+      ],
+      "steps": [
+        "In a large bowl, sift together the flour, baking powder, salt and sugar.",
+        "Make a well in the center and pour in the milk, egg and melted butter.",
+        "Mix until smooth.",
+        "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+        "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+        "Brown on both sides and serve hot."
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Avocado Toast",
+      "category": "breakfast",
+      "imageUrl": "https://images.unsplash.com/photo-1588137378633-dea1336ce1e2?w=400",
+      "prepTimeMinutes": 10,
+      "servings": 2,
+      "ingredients": [
+        "2 slices whole grain bread",
+        "1 ripe avocado",
+        "1 tablespoon lemon juice",
+        "Salt and pepper to taste",
+        "Red pepper flakes (optional)",
+        "2 eggs (optional)"
+      ],
+      "steps": [
+        "Toast the bread slices until golden brown.",
+        "Mash the avocado in a bowl with lemon juice, salt, and pepper.",
+        "Spread the avocado mixture evenly on the toasted bread.",
+        "Top with red pepper flakes if desired.",
+        "Optional: Add a fried or poached egg on top.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Berry Smoothie Bowl",
+      "category": "breakfast",
+      "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=400",
+      "prepTimeMinutes": 15,
+      "servings": 2,
+      "ingredients": [
+        "2 frozen bananas",
+        "1 cup frozen mixed berries",
+        "1/2 cup Greek yogurt",
+        "1/4 cup almond milk",
+        "1 tablespoon honey",
+        "Granola for topping",
+        "Fresh berries for topping",
+        "Chia seeds for topping"
+      ],
+      "steps": [
+        "Add frozen bananas, berries, yogurt, almond milk, and honey to a blender.",
+        "Blend until smooth and thick.",
+        "Pour into bowls.",
+        "Top with granola, fresh berries, and chia seeds.",
+        "Serve immediately with a spoon."
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Grilled Chicken Salad",
+      "category": "lunch",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+      "prepTimeMinutes": 25,
+      "servings": 4,
+      "ingredients": [
+        "2 chicken breasts",
+        "6 cups mixed salad greens",
+        "1 cup cherry tomatoes, halved",
+        "1 cucumber, sliced",
+        "1/2 red onion, thinly sliced",
+        "1/4 cup feta cheese, crumbled",
+        "1/4 cup balsamic vinaigrette",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+      ],
+      "steps": [
+        "Season chicken breasts with salt, pepper, and olive oil.",
+        "Grill chicken over medium-high heat for 6-7 minutes per side until cooked through.",
+        "Let chicken rest for 5 minutes, then slice.",
+        "In a large bowl, combine salad greens, tomatoes, cucumber, and red onion.",
+        "Add sliced chicken on top.",
+        "Sprinkle with feta cheese.",
+        "Drizzle with balsamic vinaigrette and serve."
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Caesar Wrap",
+      "category": "lunch",
+      "imageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=400",
+      "prepTimeMinutes": 15,
+      "servings": 2,
+      "ingredients": [
+        "2 large tortilla wraps",
+        "2 cups romaine lettuce, chopped",
+        "1 cup grilled chicken, sliced",
+        "1/4 cup parmesan cheese, grated",
+        "1/4 cup Caesar dressing",
+        "1/2 cup croutons",
+        "4 cherry tomatoes, halved"
+      ],
+      "steps": [
+        "Lay tortillas flat on a clean surface.",
+        "Spread Caesar dressing on each tortilla.",
+        "Add lettuce, grilled chicken, parmesan cheese, croutons, and tomatoes.",
+        "Fold in the sides and roll tightly.",
+        "Cut in half diagonally and serve."
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Caprese Sandwich",
+      "category": "lunch",
+      "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=400",
+      "prepTimeMinutes": 10,
+      "servings": 2,
+      "ingredients": [
+        "1 ciabatta bread, cut in half",
+        "2 large tomatoes, sliced",
+        "8 oz fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "2 tablespoons balsamic glaze",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Slice the ciabatta bread in half lengthwise.",
+        "Drizzle olive oil on both sides of the bread.",
+        "Layer tomato slices, mozzarella, and basil leaves.",
+        "Season with salt and pepper.",
+        "Drizzle with balsamic glaze.",
+        "Close the sandwich, cut into portions, and serve."
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Spaghetti Carbonara",
+      "category": "dinner",
+      "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400",
+      "prepTimeMinutes": 30,
+      "servings": 4,
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta or bacon, diced",
+        "4 large eggs",
+        "1 cup parmesan cheese, grated",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "steps": [
+        "Cook spaghetti according to package directions. Reserve 1 cup pasta water.",
+        "While pasta cooks, fry pancetta in a large pan until crispy.",
+        "Add garlic and cook for 1 minute.",
+        "In a bowl, whisk together eggs and parmesan cheese.",
+        "Drain pasta and add to the pan with pancetta.",
+        "Remove from heat and quickly stir in the egg mixture, adding pasta water to create a creamy sauce.",
+        "Season with salt and pepper.",
+        "Garnish with parsley and serve immediately."
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Grilled Salmon with Vegetables",
+      "category": "dinner",
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
+      "prepTimeMinutes": 35,
+      "servings": 4,
+      "ingredients": [
+        "4 salmon fillets",
+        "2 zucchini, sliced",
+        "1 red bell pepper, cut into chunks",
+        "1 yellow bell pepper, cut into chunks",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "Fresh dill",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Preheat grill to medium-high heat.",
+        "Season salmon fillets with salt, pepper, and dill.",
+        "Toss vegetables with olive oil, garlic, salt, and pepper.",
+        "Place salmon skin-side down on the grill.",
+        "Add vegetables to the grill.",
+        "Grill salmon for 4-5 minutes per side.",
+        "Grill vegetables until tender and slightly charred.",
+        "Serve salmon with grilled vegetables and lemon slices."
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Beef Tacos",
+      "category": "dinner",
+      "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400",
+      "prepTimeMinutes": 25,
+      "servings": 4,
+      "ingredients": [
+        "1 lb ground beef",
+        "8 taco shells",
+        "1 packet taco seasoning",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup sour cream",
+        "1/2 cup salsa",
+        "1/4 cup diced onions",
+        "Fresh cilantro"
+      ],
+      "steps": [
+        "Brown ground beef in a large skillet over medium heat.",
+        "Drain excess fat.",
+        "Add taco seasoning and water according to package directions.",
+        "Simmer for 5 minutes until thickened.",
+        "Warm taco shells according to package directions.",
+        "Fill each shell with seasoned beef.",
+        "Top with lettuce, tomatoes, cheese, sour cream, salsa, onions, and cilantro.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chicken Stir Fry",
+      "category": "dinner",
+      "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400",
+      "prepTimeMinutes": 30,
+      "servings": 4,
+      "ingredients": [
+        "2 chicken breasts, sliced thin",
+        "2 cups broccoli florets",
+        "1 red bell pepper, sliced",
+        "1 cup snap peas",
+        "3 tablespoons soy sauce",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon sesame oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, minced",
+        "2 tablespoons vegetable oil",
+        "Sesame seeds for garnish",
+        "Cooked rice for serving"
+      ],
+      "steps": [
+        "Heat vegetable oil in a large wok or skillet over high heat.",
+        "Add chicken and stir-fry until golden and cooked through, about 5 minutes.",
+        "Remove chicken and set aside.",
+        "Add garlic and ginger, stir-fry for 30 seconds.",
+        "Add vegetables and stir-fry for 3-4 minutes until tender-crisp.",
+        "Return chicken to the pan.",
+        "Add soy sauce, oyster sauce, and sesame oil.",
+        "Toss everything together for 1-2 minutes.",
+        "Garnish with sesame seeds and serve over rice."
+      ]
+    }
+  ]
+}

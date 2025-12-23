@@ -1,0 +1,46 @@
+{
+  "city": "Sydney",
+  "country": "Australia",
+  "current": {
+    "temperature": 28,
+    "condition": "Sunny",
+    "humidity": 60,
+    "windSpeed": 18,
+    "sunrise": "05:45",
+    "sunset": "20:05",
+    "icon": "sunny"
+  },
+  "hourly": [
+    { "time": "00:00", "temperature": 24, "icon": "clear_night" },
+    { "time": "01:00", "temperature": 23, "icon": "clear_night" },
+    { "time": "02:00", "temperature": 22, "icon": "clear_night" },
+    { "time": "03:00", "temperature": 21, "icon": "clear_night" },
+    { "time": "04:00", "temperature": 21, "icon": "clear_night" },
+    { "time": "05:00", "temperature": 20, "icon": "clear_night" },
+    { "time": "06:00", "temperature": 21, "icon": "sunny" },
+    { "time": "07:00", "temperature": 22, "icon": "sunny" },
+    { "time": "08:00", "temperature": 24, "icon": "sunny" },
+    { "time": "09:00", "temperature": 25, "icon": "sunny" },
+    { "time": "10:00", "temperature": 26, "icon": "sunny" },
+    { "time": "11:00", "temperature": 27, "icon": "sunny" },
+    { "time": "12:00", "temperature": 28, "icon": "sunny" },
+    { "time": "13:00", "temperature": 29, "icon": "sunny" },
+    { "time": "14:00", "temperature": 29, "icon": "sunny" },
+    { "time": "15:00", "temperature": 28, "icon": "sunny" },
+    { "time": "16:00", "temperature": 27, "icon": "sunny" },
+    { "time": "17:00", "temperature": 26, "icon": "partly_cloudy" },
+    { "time": "18:00", "temperature": 25, "icon": "partly_cloudy" },
+    { "time": "19:00", "temperature": 24, "icon": "partly_cloudy" },
+    { "time": "20:00", "temperature": 23, "icon": "clear_night" },
+    { "time": "21:00", "temperature": 22, "icon": "clear_night" },
+    { "time": "22:00", "temperature": 22, "icon": "clear_night" },
+    { "time": "23:00", "temperature": 21, "icon": "clear_night" }
+  ],
+  "daily": [
+    { "date": "Mon, Dec 21", "high": 29, "low": 20, "icon": "sunny" },
+    { "date": "Tue, Dec 22", "high": 30, "low": 21, "icon": "sunny" },
+    { "date": "Wed, Dec 23", "high": 31, "low": 22, "icon": "sunny" },
+    { "date": "Thu, Dec 24", "high": 28, "low": 20, "icon": "partly_cloudy" },
+    { "date": "Fri, Dec 25", "high": 26, "low": 19, "icon": "cloudy" }
+  ]
+}

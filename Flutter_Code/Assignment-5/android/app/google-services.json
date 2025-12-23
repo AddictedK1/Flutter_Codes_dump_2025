@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11155898976",
+    "project_id": "mayur-expense-manager",
+    "storage_bucket": "mayur-expense-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11155898976:android:1822d5eec8e6e8d828b905",
+        "android_client_info": {
+          "package_name": "com.example.expense_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdGIi2mwU2Hw1InhA59_iI7KyPPWYvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

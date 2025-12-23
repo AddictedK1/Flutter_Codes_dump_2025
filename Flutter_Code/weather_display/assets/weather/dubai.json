@@ -1,0 +1,46 @@
+{
+  "city": "Dubai",
+  "country": "UAE",
+  "current": {
+    "temperature": 25,
+    "condition": "Clear",
+    "humidity": 45,
+    "windSpeed": 10,
+    "sunrise": "06:50",
+    "sunset": "17:40",
+    "icon": "sunny"
+  },
+  "hourly": [
+    { "time": "00:00", "temperature": 20, "icon": "clear_night" },
+    { "time": "01:00", "temperature": 19, "icon": "clear_night" },
+    { "time": "02:00", "temperature": 19, "icon": "clear_night" },
+    { "time": "03:00", "temperature": 18, "icon": "clear_night" },
+    { "time": "04:00", "temperature": 18, "icon": "clear_night" },
+    { "time": "05:00", "temperature": 17, "icon": "clear_night" },
+    { "time": "06:00", "temperature": 17, "icon": "clear_night" },
+    { "time": "07:00", "temperature": 18, "icon": "sunny" },
+    { "time": "08:00", "temperature": 20, "icon": "sunny" },
+    { "time": "09:00", "temperature": 21, "icon": "sunny" },
+    { "time": "10:00", "temperature": 22, "icon": "sunny" },
+    { "time": "11:00", "temperature": 23, "icon": "sunny" },
+    { "time": "12:00", "temperature": 25, "icon": "sunny" },
+    { "time": "13:00", "temperature": 26, "icon": "sunny" },
+    { "time": "14:00", "temperature": 26, "icon": "sunny" },
+    { "time": "15:00", "temperature": 25, "icon": "sunny" },
+    { "time": "16:00", "temperature": 24, "icon": "sunny" },
+    { "time": "17:00", "temperature": 23, "icon": "sunny" },
+    { "time": "18:00", "temperature": 21, "icon": "clear_night" },
+    { "time": "19:00", "temperature": 20, "icon": "clear_night" },
+    { "time": "20:00", "temperature": 19, "icon": "clear_night" },
+    { "time": "21:00", "temperature": 19, "icon": "clear_night" },
+    { "time": "22:00", "temperature": 18, "icon": "clear_night" },
+    { "time": "23:00", "temperature": 18, "icon": "clear_night" }
+  ],
+  "daily": [
+    { "date": "Mon, Dec 21", "high": 26, "low": 17, "icon": "sunny" },
+    { "date": "Tue, Dec 22", "high": 27, "low": 18, "icon": "sunny" },
+    { "date": "Wed, Dec 23", "high": 28, "low": 19, "icon": "sunny" },
+    { "date": "Thu, Dec 24", "high": 27, "low": 18, "icon": "partly_cloudy" },
+    { "date": "Fri, Dec 25", "high": 26, "low": 17, "icon": "sunny" }
+  ]
+}
